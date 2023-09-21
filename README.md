@@ -1,6 +1,6 @@
 Certainly! Here's the entire GitHub README in one code block:
 
-# Your Search Engine Project
+# Vision Search Engine Project
 
 ![Project Logo](your_project_logo.png)
 
@@ -50,8 +50,8 @@ Follow these steps to get your search engine up and running:
    ```
 
 3. **Configuration**:
-   - Configure the crawler settings in `crawler_config.yaml`.
-   - Customize the indexer settings in `indexer_config.yaml`.
+   - Configure the crawler settings in `crawler.py`.
+   - Customize the indexer settings in `indexer.py`.
    - Set up your frontend configuration in `frontend/src/config.js`.
 
 4. **Database Setup**:
